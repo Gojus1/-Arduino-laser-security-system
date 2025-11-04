@@ -27,3 +27,22 @@ Photoresistor Array (3 zones):
 Buzzer:
   Positive → Pin 8
   Negative → GND
+
+# Features
+
+- Multi-Zone Laser Protection: 3-zone scanning system with individual breach detection
+- Automated Servo Scanning: Motorized laser sweeps between customized positions
+- Real-time Threat Detection: Photoresistor sensors monitor laser beam integrity
+- Smart Alarm System: Escalating alerts with visual and audio indicators
+- Wireless Bluetooth Control: Remote monitoring and command via HC-05 module
+- Status Indicators: Diode and transistor-driven LED feedback system
+- Event-Driven Architecture: Non-blocking, asynchronous operation
+- Customizable Zones: Programmable servo angles for precise positioning
+
+This laser security system provides professional-grade intrusion detection with flexible configuration and remote monitoring capabilities, making it ideal for both educational demonstrations and practical security applications.
+
+# Things to do:
+- Fix bluetooth connection
+- Upgrade lazer
+
+
