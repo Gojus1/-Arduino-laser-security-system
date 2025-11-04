@@ -5,6 +5,8 @@ Laser security system, that uses components like diode, servo motor, buzzer, zs-
 Project PDF: 
 (To be continued)
 
+![Preview](IMG_2227.jpeg)
+
 # Wiring Guide
 
 Servo Motor:
