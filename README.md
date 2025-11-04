@@ -29,9 +29,8 @@ Buzzer:
   Negative → GND
 
 # Features
-
-- Multi-Zone Laser Protection: 3-zone scanning system with individual breach detection
-- Automated Servo Scanning: Motorized laser sweeps between customized positions
+- Laser Protection: 3-zone scanning system with individual breach detection
+- Automated Servo Scanning: Motorized laser sweeps between customized positions (Left. Right, Center)
 - Real-time Threat Detection: Photoresistor sensors monitor laser beam integrity
 - Smart Alarm System: Escalating alerts with visual and audio indicators
 - Wireless Bluetooth Control: Remote monitoring and command via HC-05 module
