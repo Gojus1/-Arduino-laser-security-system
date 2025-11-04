@@ -5,7 +5,7 @@ Laser security system, that uses components like diode, servo motor, buzzer, zs-
 Project PDF: 
 (To be continued)
 
-#Wiring Guide
+# Wiring Guide
 
 Servo Motor:
   Signal (Orange) → Pin 9
